@@ -1,3 +1,12 @@
 [submodule "sgx-lkl"]
 	path = sgx-lkl
 	url = git@github.com:anddev68/sgx-lkl.git
+[submodule "lkl"]
+	path = lkl
+	url = https://github.com/lkl/linux.git
+[submodule "host-musl"]
+	path = host-musl
+	url = https://github.com/lsds/musl.git
+[submodule "sgx-lkl-musl"]
+	path = sgx-lkl-musl
+	url = https://github.com/lsds/sgx-lkl-musl.git
